@@ -1,0 +1,9 @@
+ <div class="slideshow-wrapper full">
+     <div class="slideshow-menus-wrapper">
+             <a href="#" *ngFor="let i of activeCameras; " [ngClass]="{'active': i==activeCameraSlideshow }" (click)="slideTo(i)" >{{i.name}}</a>
+    </div>
+     <div class="cameras-wrapper full">
+            <app-camera-view  [camera]="activeCameraSlideshow"></app-camera-view>
+    </div>
+</div>
+

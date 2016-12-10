@@ -1,0 +1,15 @@
+<div *ngIf="isSlideshow()">
+ <app-slideshow [activeCameras]="activeView.cameras"></app-slideshow>
+</div>
+<div *ngIf="isGrid()">
+  <div class="grid{{activeView.cameras.length}} full">
+    <app-camera-view *ngFor="let i of activeView.cameras;let last= last" [camera]="i" class="{{activeView.view_type}} {{last?'last_one':''}}" ></app-camera-view>
+  </div>
+
+</div>
+
+<div *ngIf="isMultipleSlideshow()">
+    <app-multiple-slideshow class="full"  [slideshow]="activeView.slideshows" ></app-multiple-slideshow>
+</div>
+
+

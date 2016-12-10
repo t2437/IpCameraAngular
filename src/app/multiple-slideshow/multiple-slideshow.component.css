@@ -1,0 +1,51 @@
+        /* jssor slider bullet navigator skin 03 css */
+        /*
+        .jssorb03 div           (normal)
+        .jssorb03 div:hover     (normal mouseover)
+        .jssorb03 .av           (active)
+        .jssorb03 .av:hover     (active mouseover)
+        .jssorb03 .dn           (mousedown)
+        */
+        .jssorb03 div, .jssorb03 div:hover, .jssorb03 .av
+        {
+            background: url("assets/img/b03.png") no-repeat;
+            overflow:hidden;
+            cursor: pointer;
+        }
+        .jssorb03 div { background-position: -5px -4px; }
+        .jssorb03 div:hover, .jssorb03 .av:hover { background-position: -35px -4px; }
+        .jssorb03 .av { background-position: -65px -4px; }
+        .jssorb03 .dn, .jssorb03 .dn:hover { background-position: -95px -4px; }
+		.image-container {
+    position: relative;
+    width: 200px;
+    height: 300px;
+}
+.image-container .after { position: absolute; top: 0; left: 0; width: 100%; display: none; color: #333333;}
+.image-container:hover .after { display: block; background: rgba(0, 0, 0, .6);}
+.slider_container{
+position: relative; top: 0px; left: 0px; width: 809px; height: 150px;
+}            /*
+            .jssorb02 div           (normal)
+            .jssorb02 div:hover     (normal mouseover)
+            .jssorb02 .av           (active)
+            .jssorb02 .av:hover     (active mouseover)
+            .jssorb02 .dn           (mousedown)
+            */
+            .jssorb02 div, .jssorb02 div:hover, .jssorb02 .av
+            {
+                background: url("assets/img/b02.png") no-repeat;
+                overflow:hidden;
+                cursor: pointer;
+            }
+            .jssorb02 div { background-position: -5px -5px; }
+            .jssorb02 div:hover, .jssorb02 .av:hover { background-position: -35px -5px; }
+            .jssorb02 .av { background-position: -65px -5px; }
+            .jssorb02 .dn, .jssorb02 .dn:hover { background-position: -95px -5px; }
+
+.slidd_cont{
+    position: relative; top: 0px; left: 0px; width: 809px; height: 150px;
+}
+div.jssorb02{
+    left:10px!important;
+}

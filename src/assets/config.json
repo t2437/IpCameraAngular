@@ -1,0 +1,546 @@
+[
+  {
+    "view_type":"slideshow",
+    "view_name":"Slideshow",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+  {
+    "view_type":"grid1",
+    "view_name":"Grid1",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },{
+    "view_type":"grid2",
+    "view_name":"Grid 2",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+  {
+    "view_type":"grid4",
+    "view_name":"Grid 4",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+  {
+    "view_type":"grid3",
+    "view_name":"Grid 3",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+    }]
+      },
+      {
+    "view_type":"grid6",
+    "view_name":"Grid 6",
+    "cameras":[{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+      {
+    "view_type":"grid8",
+    "view_name":"Grid 8",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+      {
+    "view_type":"grid9",
+    "view_name":"Grid 9",
+    "cameras":[
+      {
+        "id":1,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 1",
+        "autoplay":false
+      },{
+        "id":2,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 2",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":4,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 4",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      },{
+        "id":3,
+        "url":"assets/small.mp4",
+        "img":"assets/img/camera.jpg",
+        "name":"Camera 3",
+        "autoplay":false
+      }
+      
+    ]
+  
+  },
+      {
+    "view_type":"multiple-slideshow",
+    "view_name":"Multiple slideshow",
+    "slideshows":[
+      {
+        "id":1,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 4",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"First Slideshow"
+      },
+            {
+        "id":12,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 4",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"Second Slideshow"
+      },
+            {
+        "id":3,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"Third Slideshow"
+      },
+
+      {
+        "id":1,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 4",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"First Slideshow"
+      },
+      {
+        "id":1,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 4",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"First Slideshow"
+      },
+      {
+        "id":1,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 1",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 2",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 4",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg",
+                    "name":"Camera 3",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"First Slideshow"
+      }
+      
+    ]
+  
+  }
+]

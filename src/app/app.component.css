@@ -1,0 +1,26 @@
+
+.grid1>app-camera-view{
+    width:100%;
+    height:100%;
+    float:left;
+}
+.grid2>app-camera-view{
+    width:50%;
+    min-height: 400px;
+    float:left;
+}
+.grid3>app-camera-view{
+    width:50%;
+    min-height: 400px;
+}
+.grid3::nth-last-child()>app-camera-view{
+    width:100%;
+    margin-top:20px;
+}
+.grid3>app-camera-view.last_one{
+    width:100%;
+}
+.grid4>app-camera-view{
+    width:50%;
+    float:left;
+}

@@ -1,3 +1,4 @@
-<h1>
-  {{title}}
-</h1>
+<app-status-bar (viewUpdated)="viewUpdated($event)" [configuration]="configuration_file"></app-status-bar>
+<app-render-view id="view_wrapper" [activeView]="activeView"></app-render-view>
+
+

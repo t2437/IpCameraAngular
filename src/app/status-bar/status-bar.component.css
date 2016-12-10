@@ -1,0 +1,39 @@
+button{
+    outline:none;
+    cursor:pointer;
+        background: transparent;
+    border: 3px solid rgba(181, 180, 180, 0.47);
+    padding: 5px 8px;
+}
+button.active{
+    border: 3px solid rgb(130, 130, 130);
+
+}
+a#close_btn{
+    cursor:pointer;
+    text-decoration: none;
+    color:black;
+    line-height: 33px;
+}
+div.status-bar-wrapper{
+        position: fixed;
+    background: white;
+    border-bottom: 1px solid #d2d2d2;
+    padding: 15px 24px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 15px;
+    z-index: 20;
+}
+div.fullscreen{  
+      visibility: collapse;
+}
+a.fullscreen{
+    visibility: visible;
+    z-index:20000;
+    color:white!important;
+}
+a{
+    color:black;
+}
