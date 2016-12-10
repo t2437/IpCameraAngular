@@ -49,3 +49,25 @@ position: relative; top: 0px; left: 0px; width: 809px; height: 150px;
 div.jssorb02{
     left:10px!important;
 }
+.slideshow-menus-wrapper{
+        position: fixed;
+    top: 68px;
+    left: 22px;
+    background: white;
+    padding: 5px 12px;
+    width: 150px;
+
+    z-index: 400000;
+}
+.slideshow-menus-wrapper>a{
+    float:left;
+    width:100%;
+    cursor: pointer;  
+      text-decoration: none;
+    color: #343434;
+}
+.slideshow-menus-wrapper>a.active,.slideshow-menus-wrapper>a:hover{
+    color: black;
+      text-decoration: underline;
+
+}

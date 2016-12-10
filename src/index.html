@@ -145,9 +145,8 @@ app-multiple-slideshow a.open_hq_img{
 
             var nestedSliders = [];
         update_global_slides = function (array_ids,single_slide=false) {
-
                 $(".slidd_cont").each( function (index, value) {
-                    
+                    console.log(value)
                 var sliderhOptions = {
                     $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
                     $AutoPlaySteps: 1,                                  //[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
@@ -183,9 +182,11 @@ app-multiple-slideshow a.open_hq_img{
         update_main_slider(single_slide);
         };
 
+var jssor_slider1;
+        var update_main_slider = function(single_slide=false,unique_id=''){
 
-        var update_main_slider = function(single_slide=false){
-
+        if(typeof jssor_slider1 !='undefined')
+        delete jssor_slider1;
                     var options = {
                         $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
                         $AutoPlaySteps: 1,                                  //[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
@@ -215,7 +216,13 @@ app-multiple-slideshow a.open_hq_img{
                     if(!single_slide)
                     options.$SlideHeight = 150;
 
-                    var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+                    // $("[u=slides]").each(function(index,value){
+                    //     if($(value).find(".image-container").length==0){
+                    //         $(value).remove();
+                    //     }
+                    // })
+
+                    jssor_slider1 = new $JssorSlider$("slider1_container"+unique_id, options);
 
                     //responsive code begin
                     //you can remove responsive code if you don't want the slider scales while window resizes

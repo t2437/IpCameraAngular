@@ -1,7 +1,7 @@
 import { Component, OnInit,Input,OnChanges,SimpleChanges } from '@angular/core';
 import { Inject, NgZone } from '@angular/core';
 
-declare function update_main_slider() : void;
+declare function update_main_slider(boolean,string) : void;
 declare function update_global_slides(array,boolean) : void;
 
 @Component({
@@ -17,6 +17,8 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
 
   }
   subslideshows = ['horiz_slide0','horiz_slide1'];
+  current_location;
+  update_oneslideshow:boolean = true;
 
   ngOnInit() {
         
@@ -24,19 +26,38 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
 
     ngOnChanges(changes: SimpleChanges) {
       var t = this;
-      
-      if(typeof changes["slideshow"]!='undefined'){
+      if(typeof changes["activeView"]!='undefined'){
         
-        setTimeout(function(){
+          this.slideTo(this.activeView.slideshows[0]);
+          
+          
+    setTimeout(function(){
         try{
-         update_global_slides(t.subslideshows,t.slideshow.length==1);
+          console.log("update global")
+         update_main_slider(true,'');
 
         }catch(e){
           console.log(e);
         }
-        },500)
+        },10)
+        
+            return;
+            
+      }
+
+      if(typeof changes["slideshow"]!='undefined'){
+        console.log("changed slideshow")
+        setTimeout(function(){
+        try{
+         update_global_slides(t.subslideshows,false);
+
+        }catch(e){
+          console.log(e);
+        }
+        },10)
        
       }
+     
     // changes.prop contains the old and the new value...
   }
 
@@ -46,7 +67,20 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
       .replace('\n', '<br/>');
   }
 
+  slideTo(i){
+          this.update_oneslideshow = false;
+    this.current_location = i;
+    var t = this;
+    
+  }
 @Input() slideshow;
+@Input() activeView;
 
 
+checkLocation(){
+  return typeof this.current_location!='undefined';
+}
+showByLocation(){
+  return typeof this.activeView!='undefined'&&this.activeView.byLocation;
+}
 }

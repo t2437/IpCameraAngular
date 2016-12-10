@@ -9,7 +9,8 @@
 </div>
 
 <div *ngIf="isMultipleSlideshow()">
-    <app-multiple-slideshow class="full"  [slideshow]="activeView.slideshows" ></app-multiple-slideshow>
+    <app-multiple-slideshow *ngIf="!activeView.byLocation" class="full"  [slideshow]="activeView.slideshows" ></app-multiple-slideshow>
+    <app-multiple-slideshow *ngIf="activeView.byLocation" class="full"  [slideshow]="activeView.slideshows" [activeView]="activeView" ></app-multiple-slideshow>
 </div>
 
 

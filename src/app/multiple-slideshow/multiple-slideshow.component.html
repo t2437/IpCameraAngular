@@ -1,4 +1,4 @@
-<div class="full" *ngIf="slideshow.length>1" >
+<div class="full" *ngIf="!showByLocation()" >
     <div id="slider1_container" style="position: relative; top: 0px; left: 0px; bottom:0px; right:0px; width: 809px; height: 456px; overflow: hidden; ">
             <!-- Slides Container -->
             <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1024px; height: 456px; overflow: hidden;">
@@ -38,14 +38,17 @@
             <a style="display: none" href="http://www.jssor.com">javascript</a>
         </div>
    </div>
-   <div class="full" *ngIf="slideshow.length==1">
-    <div id="slider1_container" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
+   <div class="full" *ngIf="showByLocation()">
+    <div class="slideshow-menus-wrapper" >
+             <a href="#" *ngFor="let i of activeView.slideshows; " [ngClass]="{'active': i==current_location }" (click)="slideTo(i)" >{{i.view_name}}</a>
+    </div>
+
+    <div *ngIf="checkLocation()"  id="slider1_container" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
             
 
-
-            <div  u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
+            <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
                         
-                <div *ngFor="let camera of slideshow[0].cameras"class="image-container">
+                <div *ngFor="let camera of current_location.cameras"class="image-container">
                                 <app-camera-view [camera]="camera" class="camera_slide"></app-camera-view>
                             </div>
 			</div>
