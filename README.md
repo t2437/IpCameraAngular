@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IpCameras
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
@@ -33,4 +33,12 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 =======
 # IpCameraAngular
 IpCamera viewer build with Angular.
->>>>>>> 795905737f4b920de22ed3b9dbf64326f61074d9
+
+# Send me a cup of coffe.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RFQEHUXQFHXNS">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
