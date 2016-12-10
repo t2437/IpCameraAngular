@@ -46,3 +46,12 @@ a.open_camera{
     right: 16px;
     padding: 5px;
 }
+a.open_hq_img{
+        z-index: 2000000;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    bottom: 7px;
+    right: 42px;
+    padding: 5px;
+}

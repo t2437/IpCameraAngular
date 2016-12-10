@@ -6,26 +6,26 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       }
       
@@ -39,8 +39,8 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       }
       
@@ -53,14 +53,14 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       }
       
@@ -74,26 +74,26 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       }
       
@@ -107,20 +107,20 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
     }]
       },
@@ -130,38 +130,38 @@
     "cameras":[{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       }
       
@@ -175,50 +175,50 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       }
       
@@ -232,56 +232,56 @@
       {
         "id":1,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 1",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 2",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Garage",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":4,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 4",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Street",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       },{
         "id":3,
         "url":"assets/small.mp4",
-        "img":"assets/img/camera.jpg",
-        "name":"Camera 3",
+        "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+        "name":"Restaurant",
         "autoplay":false
       }
       
@@ -298,32 +298,32 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   
@@ -336,32 +336,32 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   
@@ -374,20 +374,20 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   
@@ -401,38 +401,38 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   
@@ -445,44 +445,44 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   
@@ -495,44 +495,90 @@
                   {
                     "id":1,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 1",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 2",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
                     "url":"assets/small.mp4",
-                    "img":"assets/img/camera.jpg",
-                    "name":"Camera 3",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
+                    "autoplay":true
+                  }
+                  
+                ],
+                "view_name":"First Slideshow"
+      }
+      
+    ]
+  
+  },
+      {
+    "view_type":"full_screen-slideshow",
+    "view_name":"Fullscreen slideshow",
+    "slideshows":[
+      {
+        "id":1,
+            "cameras":[
+                  {
+                    "id":1,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Bedroom",
+                    "autoplay":true
+                  },{
+                    "id":2,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Garage",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
+                    "autoplay":true
+                  },{
+                    "id":4,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Street",
+                    "autoplay":true
+                  },{
+                    "id":3,
+                    "url":"assets/small.mp4",
+                    "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
+                    "name":"Restaurant",
                     "autoplay":true
                   }
                   

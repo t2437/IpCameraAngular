@@ -1,10 +1,9 @@
-
-    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 809px; height: 456px; overflow: hidden; ">
+<div class="full" *ngIf="slideshow.length>1" >
+    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; bottom:0px; right:0px; width: 809px; height: 456px; overflow: hidden; ">
             <!-- Slides Container -->
             <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1024px; height: 456px; overflow: hidden;">
               
-                
-               <div *ngFor="let slide of slideshow">
+               <div *ngFor="let slide of slideshow" >
                     <div class="slidd_cont">
 
                         <!-- Slides Container -->
@@ -27,6 +26,9 @@
                 
             
 			</div>
+
+
+              
         <!-- bullet navigator container -->
         <div u="navigator" class="jssorb02" style="position: absolute; bottom: 8px; left: 6px;">
             <!-- bullet navigator item prototype -->
@@ -35,7 +37,28 @@
         <!-- Bullet Navigator Skin End -->
             <a style="display: none" href="http://www.jssor.com">javascript</a>
         </div>
-   
+   </div>
+   <div class="full" *ngIf="slideshow.length==1">
+    <div id="slider1_container" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
+            
+
+
+            <div  u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; right:0; bottom: 0px; overflow: hidden;">
+                        
+                <div *ngFor="let camera of slideshow[0].cameras"class="image-container">
+                                <app-camera-view [camera]="camera" class="camera_slide"></app-camera-view>
+                            </div>
+			</div>
+                            
+        <!-- bullet navigator container -->
+        <div u="navigator" class="jssorb02" style="position: absolute; bottom: 8px; left: 6px;">
+            <!-- bullet navigator item prototype -->
+            <div u="prototype" style="POSITION: absolute; WIDTH: 21px; HEIGHT: 21px; text-align:center; line-height:21px; color:White; font-size:12px;"><NumberTemplate></NumberTemplate></div>
+        </div>
+        <!-- Bullet Navigator Skin End -->
+            <a style="display: none" href="http://www.jssor.com">javascript</a>
+        </div>
+   </div>
    
    
    

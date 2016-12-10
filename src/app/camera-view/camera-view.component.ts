@@ -14,6 +14,7 @@ export class CameraViewComponent implements OnInit {
     name:string,
     url:string,
     img:string,
+    hq_img:string,
     autoplay:Boolean
 
   };
@@ -41,7 +42,13 @@ export class CameraViewComponent implements OnInit {
       }
   }
 
-  open_window(event){
+  open_image(event){
+    event.preventDefault();
+    event.stopPropagation();
+     var w = window.open(this.camera.hq_img, this.camera.name, 'width=1200,height=560,scrollbars=false,top=100,left=250'); 
+     w.name =this.camera.name;
+  }
+    open_window(event){
     event.preventDefault();
     event.stopPropagation();
      var w = window.open(this.camera.url, this.camera.name, 'width=720,height=480,scrollbars=false,top=100,left=250'); 

@@ -2,7 +2,7 @@ import { Component, OnInit,Input,OnChanges,SimpleChanges } from '@angular/core';
 import { Inject, NgZone } from '@angular/core';
 
 declare function update_main_slider() : void;
-declare function update_global_slides(array) : void;
+declare function update_global_slides(array,boolean) : void;
 
 @Component({
   selector: 'app-multiple-slideshow',
@@ -24,11 +24,12 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
 
     ngOnChanges(changes: SimpleChanges) {
       var t = this;
+      
       if(typeof changes["slideshow"]!='undefined'){
-        console.log(t.slideshow)
+        
         setTimeout(function(){
         try{
-         update_global_slides(t.subslideshows);
+         update_global_slides(t.subslideshows,t.slideshow.length==1);
 
         }catch(e){
           console.log(e);

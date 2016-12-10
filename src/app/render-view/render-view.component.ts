@@ -22,7 +22,7 @@ export class RenderViewComponent implements OnInit {
     return  typeof this.activeView!='undefined'&&this.activeView.view_type.indexOf("grid")==0;
   }
   isMultipleSlideshow(){
-    return  typeof this.activeView!='undefined'&&this.activeView.view_type=="multiple-slideshow";
+    return  typeof this.activeView!='undefined'&&(this.activeView.view_type=="multiple-slideshow"||this.activeView.view_type=="full_screen-slideshow");
   }
 
 }
