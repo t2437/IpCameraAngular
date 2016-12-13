@@ -5,32 +5,32 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
   {
     "view_type":"grid1",
@@ -38,34 +38,34 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },{
     "view_type":"grid2",
     "view_name":"Grid 2",
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
   {
     "view_type":"grid4",
@@ -73,32 +73,32 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
   {
     "view_type":"grid3",
@@ -106,19 +106,19 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
@@ -129,44 +129,44 @@
     "view_name":"Grid 6",
     "cameras":[{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
       {
     "view_type":"grid8",
@@ -174,56 +174,56 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
       {
     "view_type":"grid9",
@@ -231,62 +231,62 @@
     "cameras":[
       {
         "id":1,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Bedroom",
         "autoplay":false
       },{
         "id":2,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Garage",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":4,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Street",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       },{
         "id":3,
-        "url":"assets/small.mp4",
+        "url":"rtsp://aab007.selfip.org/media/video1",
         "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
         "name":"Restaurant",
         "autoplay":false
       }
-      
+
     ]
-  
+
   },
       {
     "view_type":"multiple-slideshow",
@@ -297,36 +297,36 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -335,36 +335,36 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"Second Slideshow"
       },
@@ -373,24 +373,24 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"Third Slideshow"
       },
@@ -400,42 +400,42 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -444,48 +444,48 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -494,56 +494,56 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       }
-      
+
     ]
-  
+
   },
-      
+
       {
     "view_type":"multiple-slideshow",
     "view_name":"Multiple slideshow",
@@ -554,36 +554,36 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -592,36 +592,36 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"Second Slideshow"
       },
@@ -630,24 +630,24 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"Third Slideshow"
       },
@@ -657,42 +657,42 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -701,48 +701,48 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       },
@@ -751,53 +751,53 @@
             "cameras":[
                   {
                     "id":1,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Bedroom",
                     "autoplay":true
                   },{
                     "id":2,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Garage",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":4,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Street",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   },{
                     "id":3,
-                    "url":"assets/small.mp4",
+                    "url":"rtsp://aab007.selfip.org/media/video1",
                     "img":"assets/img/camera.jpg","hq_img":"assets/img/camera.jpg",
                     "name":"Restaurant",
                     "autoplay":true
                   }
-                  
+
                 ],
                 "view_name":"First Slideshow"
       }
-      
+
     ]
-  
+
   }
 ]

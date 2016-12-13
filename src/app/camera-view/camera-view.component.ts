@@ -21,11 +21,11 @@ export class CameraViewComponent implements OnInit {
   @Input()autoplay:Boolean=false;
   playing:Boolean = false;
 
-  @ViewChild('videoPlayer') video_player; 
-  
+  @ViewChild('videoPlayer') video_player;
+
 
   constructor() {
-    
+
    }
 
   ngOnInit() {
@@ -45,13 +45,13 @@ export class CameraViewComponent implements OnInit {
   open_image(event){
     event.preventDefault();
     event.stopPropagation();
-     var w = window.open(this.camera.hq_img, this.camera.name, 'width=1200,height=560,scrollbars=false,top=100,left=250'); 
+     var w = window.open(this.camera.hq_img, this.camera.name, 'width=1200,height=560,scrollbars=false,top=100,left=250');
      w.name =this.camera.name;
   }
     open_window(event){
     event.preventDefault();
     event.stopPropagation();
-     var w = window.open(this.camera.url, this.camera.name, 'width=720,height=480,scrollbars=false,top=100,left=250'); 
+     var w = window.open("/assets/camera.html?link="+this.camera.url, this.camera.name, 'width=720,height=480,scrollbars=false,top=100,left=250'); 
      w.name =this.camera.name;
   }
 }
