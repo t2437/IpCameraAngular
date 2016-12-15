@@ -34,9 +34,6 @@ div.controll_btn{
     width: 20px;
     height: 20px;
 }
-div.camera-view{
-    cursor: pointer;
-}
 a.open_camera{
     z-index: 2000000;
     width: 27px;
@@ -54,4 +51,7 @@ a.open_hq_img{
     bottom: 7px;
     right: 42px;
     padding: 5px;
+}
+.controll_btn,a.open_hq_img,a.open_camera{
+    cursor: pointer;
 }

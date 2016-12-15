@@ -182,11 +182,11 @@ app-multiple-slideshow a.open_hq_img{
         update_main_slider(single_slide);
         };
 
-var jssor_slider1;
         var update_main_slider = function(single_slide=false,unique_id=''){
 
-        if(typeof jssor_slider1 !='undefined')
-        delete jssor_slider1;
+            console.log("update_main_slider",$("#slider1_container"))
+       // if(typeof jssor_slider1 !='undefined')
+                //delete jssor_slider1;
                     var options = {
                         $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
                         $AutoPlaySteps: 1,                                  //[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
@@ -221,8 +221,7 @@ var jssor_slider1;
                     //         $(value).remove();
                     //     }
                     // })
-
-                    jssor_slider1 = new $JssorSlider$("slider1_container"+unique_id, options);
+                    var jssor_slider1 = new $JssorSlider$("slider1_container", options);
 
                     //responsive code begin
                     //you can remove responsive code if you don't want the slider scales while window resizes

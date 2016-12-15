@@ -1,4 +1,4 @@
-import { Component, OnInit,Input,OnChanges,SimpleChanges } from '@angular/core';
+import { Component, OnInit,Input,OnChanges,SimpleChanges} from '@angular/core';
 import { Inject, NgZone } from '@angular/core';
 
 declare function update_main_slider(boolean,string) : void;
@@ -20,6 +20,10 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
   current_location;
   update_oneslideshow:boolean = true;
 
+@Input() slideshow;
+@Input() activeView;
+
+
   ngOnInit() {
         
     }
@@ -30,11 +34,9 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
         
           this.slideTo(this.activeView.slideshows[0]);
           
-          
     setTimeout(function(){
         try{
-          console.log("update global")
-         update_main_slider(true,'');
+         this.update_main_slider(true,'');
 
         }catch(e){
           console.log(e);
@@ -46,10 +48,9 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
       }
 
       if(typeof changes["slideshow"]!='undefined'){
-        console.log("changed slideshow")
         setTimeout(function(){
         try{
-         update_global_slides(t.subslideshows,false);
+         this.update_global_slides(t.subslideshows,false);
 
         }catch(e){
           console.log(e);
@@ -71,10 +72,18 @@ export class MultipleSlideshowComponent implements OnInit,OnChanges {
           this.update_oneslideshow = false;
     this.current_location = i;
     var t = this;
+
+              
+    // setTimeout(function(){
+    //     try{
+    //      this.update_main_slider(true,'');
+
+    //     }catch(e){
+    //       console.log(e);
+    //     }
+    //     },10)
     
   }
-@Input() slideshow;
-@Input() activeView;
 
 
 checkLocation(){

@@ -29,17 +29,29 @@ export class CameraViewComponent implements OnInit {
    }
 
   ngOnInit() {
+        // this.video_player.nativeElement.onload = this.image_updated(this);     
+        var t = this;
+        this.video_player.nativeElement.addEventListener("load", function() {
+           t.image_updated(t)
+        });
+  }
+  
+  image_updated(t){
+    if(!this.playing) return;
+    setTimeout(function(){
+         t.video_player.nativeElement.src = t.camera.url;
+   },0.15)     
+
   }
 
-  clicked(){
-  /*  this.playing=!this.playing;
-    if(this.playing){
 
-        this.video_player.nativeElement.play();
+
+  clicked(){
+          var t = this;
+    this.playing=!this.playing;
+    if(this.playing){   
+        this.video_player.nativeElement.src = this.camera.url;
     }
-      else{
-      this.video_player.nativeElement.load();
-      }*/
   }
 
   open_image(event){
