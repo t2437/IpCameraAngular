@@ -32,14 +32,14 @@ export class CameraViewComponent implements OnInit {
   }
 
   clicked(){
-    this.playing=!this.playing;
+  /*  this.playing=!this.playing;
     if(this.playing){
 
         this.video_player.nativeElement.play();
     }
       else{
       this.video_player.nativeElement.load();
-      }
+      }*/
   }
 
   open_image(event){
@@ -51,7 +51,7 @@ export class CameraViewComponent implements OnInit {
     open_window(event){
     event.preventDefault();
     event.stopPropagation();
-     var w = window.open("/assets/camera.html?link="+this.camera.url, this.camera.name, 'width=720,height=480,scrollbars=false,top=100,left=250'); 
+     var w = window.open("/assets/camera.html?link="+this.camera.url, this.camera.name, 'width=720,height=480,scrollbars=false,top=100,left=250');
      w.name =this.camera.name;
   }
 }
