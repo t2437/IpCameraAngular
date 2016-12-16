@@ -17,7 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 
 # Send me a cup of coffe.
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RFQEHUXQFHXNS)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/iosifnicolae2)
 
 
 #Screenshoots
